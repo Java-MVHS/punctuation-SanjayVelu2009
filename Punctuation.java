@@ -24,8 +24,8 @@
  * The statement in the if sequence will be sentence equal to sentence concatnated to the word string.
  * Outside the if statement make y equal to i plus 1
  * return sequence
- * In the printing method pass text as text1
- * Print text1 using System.out.println
+ * In the printing method pass text as text2
+ * Print text2 using System.out.println
 */
 public class Punctuation
 {
